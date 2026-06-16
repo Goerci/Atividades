@@ -18,10 +18,10 @@ while pontos1 < 50 or pontos2 < 50:
     print(f"Dado 1: {dado1}")
     print(f"Dado 2: {dado2}")
     print(result)
-    if abs(result - p1) < abs(result - p2:)
+    if abs(result - p1) < abs(result - p2):
         print("Player 1 Chegou mais perto")
         pontos1 += 5
-    elif abs(result - p1) == abs(result - p2:)
+    elif abs(result - p1) == abs(result - p2):
         print("Empate")
         pontos1 += 2
         pontos2 += 2
